@@ -1,0 +1,46 @@
+
+
+
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    height: 50vh;
+}
+
+.listbold{
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.about-section1{
+    display: flex;
+}
+
+.w-85{
+    width:85%
+}
+
+.w-90{
+    width:90%
+}
+
+
+.section1{
+    display:flex;
+    justify-content: center;
+    
+}
+
+
+
+.progress{
+    height: 0.75rem;
+}
+
